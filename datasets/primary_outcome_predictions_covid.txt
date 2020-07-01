@@ -1,0 +1,3587 @@
+Effectiveness O
+of O
+chemoprophylaxis O
+assessed O
+by O
+incidence O
+of O
+secondary O
+COVID-19 O
+cases O
+
+serum O
+albumin O
+
+Time O
+
+2019-ncov O
+
+Symptomatic O
+COVID-19 O
+infection O
+rate O
+
+Prevention B-outcome
+of I-outcome
+COVID-19 I-outcome
+
+COVID-19 O
+diagnosis O
+
+Number O
+of O
+symptomatic O
+COVID-19 O
+
+Frequency O
+of O
+vaccine O
+events O
+Frequency O
+
+RT-PCR O
+confirmed O
+COVID-19 O
+infection O
+
+Clinical O
+
+Frequency O
+of O
+solicited O
+local O
+reactogenicity O
+adverse O
+
+Safety O
+indexes O
+of O
+adverse O
+reactions O
+
+Positive O
+predicted O
+
+the O
+negative O
+conversion O
+ratio O
+
+Incidence O
+of O
+onset O
+
+Viral O
+nucleic O
+
+viral O
+negative-transforming O
+time O
+30-day O
+cause-specific O
+
+Proportion O
+of O
+COVID-19 O
+close O
+
+Length O
+of O
+hospital O
+stay O
+
+Number O
+
+PCL O
+PSQI O
+FSI O
+
+mood O
+assessment O
+
+During O
+the O
+operation, O
+
+Blood O
+routine O
+examination O
+Chest O
+
+Inccidence O
+of O
+2019-nCoV O
+pneumonia O
+
+SCL-90 O
+scale O
+
+Shorten O
+
+cough O
+agitation O
+
+novel O
+coronavirus O
+nucleic O
+
+adverse O
+reactions O
+7 B-outcome
+days I-outcome
+post I-outcome
+injection I-outcome
+
+Rate I-outcome
+of I-outcome
+
+Symptomatic O
+COVID-19 O
+Peak O
+severity O
+of B-outcome
+COVID-19 I-outcome
+over O
+
+Confirmed O
+cases O
+of O
+a O
+COVID-19 O
+
+Polymerase O
+chain O
+reaction O
+
+The O
+rate O
+of O
+COVID-19 B-outcome
+
+Incidence I-outcome
+rate I-outcome
+of I-outcome
+
+Occurrence O
+of O
+an O
+symptomatic O
+or B-outcome
+asymptomatic I-outcome
+SARS-CoV-2 O
+
+COVID-19 O
+disease O
+incidence B-outcome
+Severe I-outcome
+COVID-19 I-outcome
+disease B-outcome
+incidence I-outcome
+
+Assess I-outcome
+
+Health O
+Care O
+Workers O
+absenteeism O
+
+COVID-19 B-outcome
+disease I-outcome
+diagnosis O
+
+Number O
+of O
+participants B-outcome
+with I-outcome
+symptomatic, I-outcome
+lab-confirmed I-outcome
+COVID-19. I-outcome
+
+new-onset I-outcome
+
+Microbiologic O
+evidence O
+of B-outcome
+infection I-outcome
+
+Number I-outcome
+of I-outcome
+Covid-19 I-outcome
+positive I-outcome
+
+COVID-19-free O
+survival O
+
+The O
+number B-outcome
+of I-outcome
+
+positive O
+serology O
+or O
+reverse O
+transcriptase O
+(RT-PCR) O
+for O
+COVID-19 O
+up O
+
+Reduction O
+in O
+the B-outcome
+number O
+
+Number O
+of O
+confirmed O
+symptomatic O
+infections O
+of O
+SARS-CoV-2 O
+(COVID-19) O
+
+Prevention O
+
+Reduction O
+in O
+COVID-19 O
+infection O
+frequency O
+
+Symptomatic O
+laboratory-confirmed O
+COVID-19 O
+Symptomatic O
+laboratory-confirmed O
+VRI O
+
+Frequency O
+of O
+Adverse O
+Events O
+
+Prevention O
+Study: O
+Measure O
+the O
+effect O
+of O
+NORS O
+on O
+the O
+prevention O
+of O
+COVID-19 O
+
+Incidence O
+
+Incidence O
+of O
+hospitalization O
+for O
+COVID-19 O
+Incidence O
+of O
+symptoms O
+for O
+COVID-19 O
+
+To O
+assess O
+the O
+impact O
+of O
+hydroxychloroquine O
+and O
+azithromycin O
+on O
+the O
+prevention O
+
+Recruitment O
+Feasibility O
+Recourse O
+utilization O
+
+Symptomatic O
+or O
+asymptomatic O
+SARS-CoV-2 O
+infection O
+
+50% O
+reduction O
+in O
+
+Occurrence O
+
+Impact O
+
+Intraoral O
+
+Polymerase O
+chain O
+reaction O
+
+incidence O
+(measured O
+by O
+
+Percent O
+of B-outcome
+patient I-outcome
+
+Mechanical O
+ventilation B-outcome
+
+Percentage O
+
+World O
+
+Composite O
+outcome O
+of O
+death, O
+need O
+for O
+invasive O
+ventilation, O
+and O
+
+Number O
+of O
+sick O
+days O
+(SDS) O
+during O
+the O
+
+Lung O
+CT O
+Score O
+
+Elevation O
+of O
+proper O
+hygiene O
+behaviour O
+(behavioural O
+change) O
+
+Diagnosis O
+
+COVID-19 B-outcome
+infection I-outcome
+
+Risk I-outcome
+of I-outcome
+
+occurrence O
+of O
+an O
+symptomatic O
+or O
+asymptomatic O
+SARS-CoV-2 O
+infection O
+among O
+healthcare O
+workers O
+(HCWs) O
+An O
+infection O
+by O
+SARS-CoV-2 O
+is O
+defined O
+
+nan O
+
+viral O
+
+Number O
+
+One-month O
+mortality O
+
+nan O
+
+nan O
+
+nan O
+
+nan O
+
+nan O
+
+nan O
+
+nan O
+
+nan B-outcome
+
+nan I-outcome
+
+Improvement I-outcome
+of O
+COVID-19 O
+disease O
+status O
+
+nan O
+
+nan O
+
+nan O
+
+nan B-outcome
+
+nan O
+
+nan O
+
+nan O
+
+nan O
+
+nan I-outcome
+
+nan I-outcome
+
+All-cause O
+hospital O
+mortality O
+
+nan O
+
+nan O
+
+nan O
+
+nan B-outcome
+
+Disappear I-outcome
+time O
+
+nan O
+
+nan O
+
+nan O
+
+nan O
+
+nan O
+
+nan O
+
+Time O
+to O
+resolution B-outcome
+of I-outcome
+fever O
+for O
+
+Rate O
+of O
+
+Clinical O
+outcome O
+
+Severity O
+of O
+COVID-19 O
+
+Percentage I-outcome
+of I-outcome
+subjects O
+reporting O
+
+Hospital O
+Admission O
+
+Survival O
+rate O
+
+Viral O
+load O
+
+Reduction O
+in O
+the O
+incidence O
+of O
+patients O
+
+SARS-CoV-2 O
+
+The O
+
+Rate O
+
+changes O
+
+Sequential O
+Organ O
+Failure O
+
+Determine O
+the O
+number O
+
+Mortality O
+
+Proportion O
+
+Change O
+of O
+arterial O
+oxygenation O
+
+Proportion B-outcome
+of I-outcome
+Participants O
+Discharged O
+by O
+Day O
+
+Mortality O
+PaO2:FiO2 O
+ratio O
+
+Size O
+of O
+
+Fever O
+to O
+
+The O
+time O
+to O
+oxygen O
+saturation O
+recovery O
+to O
+normal O
+
+The O
+change O
+of O
+pneumonia O
+severity O
+
+Time O
+to O
+Clinical O
+recoveryTime O
+to O
+Clinical O
+Recovery O
+
+Time O
+to O
+Clinical O
+Improvement O
+(TTCI) O
+
+Mean O
+clinical O
+
+Time O
+to O
+clinical O
+recovery O
+
+lung O
+injury O
+score O
+
+the O
+incidence O
+of O
+treatment O
+failure O
+in O
+
+Oxygenation O
+index O
+
+Time O
+to O
+Clinical O
+Improvement O
+(TTCI) O
+
+High-resolution B-outcome
+computed O
+tomography O
+(HRCT) O
+score O
+Lung O
+function O
+including O
+FVC, O
+
+Partial O
+arterial I-outcome
+oxygen I-outcome
+pressure O
+(PaO2) I-outcome
+to O
+fraction O
+of O
+inspiration O
+O2 O
+(FiO2) O
+ratio O
+Partial O
+
+Clinical O
+improvement O
+based O
+on O
+the O
+7-point O
+scale O
+Lower O
+Murray O
+lung O
+injury O
+score O
+
+Size O
+of O
+lesion O
+
+Rate O
+of O
+composite O
+adverse O
+
+Time O
+to O
+Clinical O
+recoveryTime O
+to O
+Clinical O
+Recovery O
+(TTCR) O
+
+Time O
+to O
+complete O
+remission O
+of O
+2019-nCoV O
+infection-associated O
+symptoms O
+
+Rate O
+
+Rate O
+of O
+comprehensive O
+adverse O
+outcome O
+
+Rate O
+of O
+disease O
+remission O
+Time O
+for O
+lung B-outcome
+recovery I-outcome
+
+Rate I-outcome
+of I-outcome
+
+Incidence O
+of O
+COVID19 O
+Disease O
+
+Time O
+to O
+recovery O
+
+Virus O
+negative O
+conversion O
+rate O
+in O
+the O
+first O
+
+Ventilation-free O
+days O
+
+Clinical O
+recovery O
+time O
+
+Time O
+
+The O
+virological O
+clearance O
+rate O
+of O
+throat O
+swabs, O
+sputum, O
+or B-outcome
+lower O
+respiratory O
+tract O
+secretions O
+at B-outcome
+day O
+3 O
+The O
+virological O
+
+The O
+virological O
+
+Pneumonia O
+severity O
+index O
+Oxygenation O
+
+arrest O
+in O
+deterioration O
+
+Improvement O
+of O
+clinical O
+symptoms O
+including O
+duration O
+of O
+fever O
+Improvement O
+of O
+clinical O
+symptoms O
+
+The O
+incidence O
+of O
+composite O
+adverse O
+outcome O
+
+Clinical O
+recovery O
+time O
+
+Lower O
+
+Clinical O
+cure O
+rate O
+
+Disppear O
+time O
+of O
+ground-glass O
+shadow O
+
+The O
+incidence O
+of O
+side O
+effects O
+
+Time O
+to O
+negative O
+NPS O
+
+chest O
+CT O
+Finger O
+pulse O
+oxygen B-outcome
+blood I-outcome
+gas O
+
+The O
+lowest O
+SpO2 O
+during O
+intubation O
+
+hospital O
+length B-outcome
+of O
+
+time O
+to O
+clinical O
+improvement O
+
+Length O
+
+Lung O
+function O
+
+Time O
+
+Fatality O
+rate O
+
+Time O
+
+Length O
+of O
+hospital B-outcome
+stay I-outcome
+
+St. O
+George's O
+Respiratory O
+Questionnaire O
+
+Primary O
+indicator O
+(14 O
+day O
+outcome O
+of O
+the O
+subjects, O
+including: I-outcome
+recovery, O
+improvement, O
+turning O
+critical, O
+death.) O
+Primary O
+indicator O
+(lung O
+CT) O
+
+Time O
+
+Chest O
+imaging O
+(CT) O
+
+Length O
+of O
+stay O
+Length O
+of O
+severe O
+oxygenation O
+index O
+during O
+treatment O
+all-cause O
+mortality O
+
+2019-nCoV O
+
+ECG O
+Chest O
+imaging B-outcome
+Complications O
+vital O
+
+14 O
+day O
+outcome O
+of O
+the O
+
+Number O
+of O
+worsening O
+events O
+
+Length O
+of O
+hospital O
+stay O
+
+Antipyretic O
+time O
+
+Cure O
+rate O
+The B-outcome
+cure I-outcome
+time O
+The O
+rate O
+and O
+time O
+at O
+which O
+the O
+normal O
+
+Body O
+temperature O
+
+Length O
+of O
+
+Recovery O
+time O
+Ratio O
+and O
+time O
+for O
+the O
+general O
+type O
+to B-outcome
+progress I-outcome
+to O
+heavy B-outcome
+Ratio I-outcome
+and I-outcome
+
+Relief O
+of B-outcome
+clinical O
+symptoms O
+and O
+duration O
+
+TCM O
+symptom O
+score O
+Antifebrile O
+time O
+The O
+time O
+and O
+rate O
+of O
+transition O
+of O
+new O
+coronavirus O
+to O
+Yin O
+
+rate O
+
+PSI O
+
+Self-rating O
+depression O
+scale, O
+SDS O
+Self-Rating O
+Anxiety O
+Scale, O
+
+pulmonary O
+function O
+St O
+Georges B-outcome
+respiratory O
+questionnaire, O
+SGRQ O
+Modified O
+Barthel O
+Index, O
+MBI O
+
+Time O
+
+Proportion O
+of O
+patients O
+with O
+a O
+lung O
+injury O
+score O
+reduction O
+of O
+
+time O
+and O
+rate B-outcome
+of I-outcome
+
+The O
+incidence O
+of O
+adverse O
+outcome O
+
+TCM B-outcome
+symptoms I-outcome
+efficacy O
+
+Antipyretic O
+time O
+
+Time O
+for O
+body O
+temperature O
+recovery O
+Chest O
+X-ray O
+absorption O
+
+CT O
+of O
+lung O
+CT O
+and O
+MRI O
+of O
+hip O
+
+Clinical O
+and O
+laboratory O
+indicators O
+Viral O
+load O
+chest O
+CT O
+serum O
+cell O
+
+CURB-65 O
+PSI O
+score O
+
+cure O
+rate O
+
+Rate O
+of O
+conversion O
+to O
+severe O
+or O
+critical O
+illness O
+
+28-day O
+survival O
+Inflammatory O
+factor O
+levels O
+
+Duration O
+of O
+PCR O
+
+vital O
+signs O
+(Body O
+temperature, O
+blood O
+pressure, O
+heart O
+rate, O
+breathing O
+
+Time O
+to O
+Clinical O
+recovery O
+
+pulmonary O
+function O
+Novel O
+coronavirus O
+pneumonic O
+
+CT O
+scan O
+of O
+the O
+lungs O
+Nucleic O
+acid O
+detection B-outcome
+of I-outcome
+throat O
+secretion O
+
+Chest O
+CT O
+Routine O
+blood O
+
+the O
+condition O
+worsens O
+and O
+develops O
+into O
+severe O
+or O
+
+Chest O
+CT O
+scan O
+Nucleic O
+acid O
+of O
+novel O
+coronavirus O
+Routine O
+blood O
+test O
+Routine O
+urine O
+test O
+
+Time B-outcome
+to I-outcome
+leave I-outcome
+ventilator O
+on O
+day O
+28 O
+after O
+receiving O
+
+Physical O
+examination O
+
+Virus O
+negative O
+conversion O
+rate O
+in B-outcome
+the I-outcome
+first I-outcome
+
+Declining O
+speed O
+of O
+Novel O
+Coronavirus O
+by O
+PCR O
+Negative O
+
+State O
+anxiety O
+
+the O
+score O
+of B-outcome
+Hamilton I-outcome
+depression O
+scale O
+the O
+score O
+
+PSI O
+
+Time O
+to O
+viral O
+negativity B-outcome
+by I-outcome
+RT-PCR I-outcome
+Time O
+
+Time O
+to O
+conversion O
+of O
+2019-nCoV B-outcome
+RNA I-outcome
+result I-outcome
+from B-outcome
+RI I-outcome
+sample I-outcome
+
+Cure O
+rate O
+Mortality O
+
+Patient B-outcome
+survival I-outcome
+rate I-outcome
+
+virus O
+nucleic O
+
+Mortality O
+in O
+patients O
+
+pneumonia B-outcome
+severity B-outcome
+index Seperator
+(PSI) I-outcome
+Incidence I-outcome
+of O
+new B-outcome
+organ Seperator
+dysfunction I-outcome
+
+The O
+novel O
+coronavirus B-outcome
+nucleic I-outcome
+acid O
+negative O
+rate O
+
+Time O
+to O
+
+The O
+incidence O
+of O
+
+the O
+rate O
+of O
+remission O
+
+Blood O
+routine O
+tests, O
+
+blood O
+routine O
+urine O
+routines O
+CRP O
+
+Time O
+to O
+
+pulmonary O
+function O
+Antipyretic O
+
+pulmonary O
+function O
+St O
+Georges O
+respiratory O
+questionnaire, O
+SGRQ O
+Modified O
+Barthel O
+Index, O
+MBI O
+Incidence O
+of O
+adverse O
+events O
+
+Body O
+temperature O
+TCM O
+syndrome O
+integral O
+Murray O
+lung O
+injury O
+score O
+The O
+transition O
+time O
+of O
+novel O
+coronavirus O
+nucleic O
+acid O
+MuLBSTA O
+score O
+
+pulmonary O
+function O
+St O
+Georges O
+respiratory O
+questionnaire, O
+SGRQ O
+
+Antipyretic O
+time O
+Time O
+of O
+virus O
+turning O
+negative O
+
+clinical O
+cure O
+rate O
+Incidence O
+of O
+mechanical O
+ventilation O
+by O
+day28 O
+All-cause O
+
+Neutrophil O
+
+Clinical O
+symptoms O
+Blood O
+routine O
+the O
+viral O
+load O
+
+CD8+ O
+T O
+cells O
+numbers O
+CD4+ O
+T O
+cell O
+numbers O
+NK O
+
+Chest O
+CT B-outcome
+Whole O
+
+pneumonia O
+
+Release O
+
+TCM O
+
+Severe O
+
+Improvement O
+
+Time O
+
+Rate O
+
+Quality O
+
+The O
+
+Clinical O
+index O
+
+lung O
+function O
+ADL O
+
+Traditional O
+
+recovery O
+
+Chest O
+
+Recovery O
+
+Time O
+
+TTCI O
+
+The O
+
+Disappearance O
+
+oxygen O
+
+SOFA O
+
+gut O
+microbiome O
+Fecal O
+
+Clinical O
+
+Clinical O
+
+SARS-CoV-2 O
+
+Coronavirus O
+
+Time B-outcome
+to I-outcome
+Clinical O
+recovery O
+Butyrate O
+in O
+feces O
+
+Recovery O
+
+hospital O
+
+cure O
+
+Arterial O
+
+Time O
+
+the O
+
+Psychological O
+
+Recovery B-outcome
+time I-outcome
+Pneumonia I-outcome
+psi O
+score I-outcome
+
+Pharynx O
+swabs, O
+lower O
+respiratory O
+tract O
+samples O
+(sputum/endotracheal O
+aspiration/alveolar O
+lavage), O
+and O
+
+PCL O
+HRQL O
+IPAQ O
+PASE O
+
+Post-traumatic O
+stress O
+disorder O
+checklist O
+Clinical O
+prognostic O
+outcome O
+Il-6 O
+
+Lung O
+CT O
+after O
+3 O
+days O
+Lung O
+CT O
+
+Inhospital O
+time O
+
+temperature O
+respiratory O
+
+K-bld O
+questionnaire O
+
+The O
+time O
+to O
+
+negative O
+conversion O
+rate O
+negative O
+conversion O
+time O
+
+Viral O
+load O
+Clinical O
+features O
+Inflammation O
+Pulmonary O
+
+NRS O
+2002 O
+
+Time O
+to O
+
+Temperature O
+Respiratory O
+
+Clearance O
+rate O
+and O
+time O
+of O
+main O
+symptoms O
+(fever, O
+fatigue, O
+cough) O
+
+Lung B-outcome
+CT O
+
+Inflammation B-outcome
+factor O
+
+Rate O
+of O
+composite O
+
+Clinical O
+symptoms B-outcome
+TCM O
+syndrome O
+Lung O
+imaging O
+Time I-outcome
+
+Clinical O
+recovery O
+time B-outcome
+Pneumonia I-outcome
+
+Routine O
+physical O
+examination O
+Vital O
+signs: O
+breathing, O
+
+pulmonary O
+function O
+
+temperature O
+respiratory O
+rate O
+Blood O
+
+viral O
+negative-transforming O
+time O
+30-day O
+cause-specific O
+mortality B-outcome
+co-infections I-outcome
+Time B-outcome
+from O
+severe O
+
+Negative O
+conversion O
+rate O
+of O
+2019-nCoV O
+nucleic O
+acid O
+
+the O
+relive O
+of O
+CRS O
+
+COVID-19 O
+nucleic O
+acid O
+detection O
+time O
+from O
+positive O
+to O
+negative O
+
+Length O
+of O
+
+Negative O
+conversion O
+rate O
+of O
+COVID-19 O
+nucleic O
+acid B-outcome
+Lung O
+inflammation B-outcome
+absorption I-outcome
+ratio O
+
+Time O
+to O
+
+cough O
+
+time O
+to B-outcome
+recovery. I-outcome
+
+SOFA O
+score O
+
+nan O
+
+Validity O
+observation O
+
+Time O
+to O
+Clinical O
+Recovery, O
+TTCR O
+
+TTCI O
+(Time O
+
+The O
+
+Clinical O
+therapeutic O
+
+Time O
+to O
+Clinical O
+Recovery O
+(TTCR) O
+
+Chest O
+imaging O
+Oxygenation O
+index O
+Extravascular O
+pulmonary O
+water O
+
+Mortality O
+
+Sputum/nasal O
+swab/pharyngeal O
+swab/lower O
+respiratory O
+
+Cure O
+rate I-outcome
+
+Tempreture I-outcome
+Virus O
+nucleic O
+acid O
+
+Rate O
+of O
+composite O
+advers O
+outcomes: O
+SPO2, O
+PaO2/FiO2 O
+and O
+respiratory O
+rate O
+
+Real-time O
+fluorescent O
+RT-PCR O
+detection O
+
+The O
+time B-outcome
+of I-outcome
+duration I-outcome
+of I-outcome
+COVID-19 I-outcome
+nucleic O
+acid O
+RT-PCR O
+test O
+
+Psychological O
+status O
+
+Progression O
+rate O
+from O
+mild O
+to O
+critical/severe O
+
+fever O
+clearance O
+
+Pulmonary O
+function O
+6 O
+minutes B-outcome
+walking O
+distance O
+The O
+Short O
+
+PaO2 B-outcome
+/ I-outcome
+FiO2 I-outcome
+or I-outcome
+respiratory O
+rate I-outcome
+(without I-outcome
+oxygen) O
+
+SpO2 B-outcome
+during I-outcome
+intubation I-outcome
+the O
+total O
+
+MRC O
+breathlessness B-outcome
+scale I-outcome
+6MWD I-outcome
+
+Incidence O
+
+28 B-outcome
+day I-outcome
+mortality I-outcome
+
+Clinical I-outcome
+symptom O
+improvement O
+
+lasting O
+time O
+of O
+
+28 O
+day O
+mortality O
+
+Main O
+symptom O
+relief O
+time B-outcome
+
+CRP I-outcome
+ESR O
+PCT O
+Tn O
+
+Safety B-outcome
+
+Clinical O
+
+Severe B-outcome
+conversion I-outcome
+rate I-outcome
+Oxygenation O
+index O
+
+Clinical O
+symptoms O
+(fever, O
+weakness, O
+cough) O
+
+Clinical O
+symptoms O
+(fever, O
+weakness, O
+cough) O
+recovery O
+rate O
+and O
+recovery O
+time O
+
+the O
+number O
+of O
+
+Improvement O
+of O
+symptoms O
+
+Clinical O
+cure O
+rate O
+
+2019-ncov-RNA O
+Chest O
+CT O
+Routine O
+blood O
+test O
+
+Average O
+discharge O
+time O
+WBC O
+ALT, O
+AST, O
+gama-GT, O
+BUN, O
+Cr, O
+CK-MB O
+turn O
+serious/crisis O
+
+Length O
+of O
+stay O
+in O
+ICU O
+Diaphragm O
+movement O
+
+CK-MB O
+CTnI O
+neuron-specific O
+enolase,NSE O
+BUN O
+
+Time O
+to O
+Clinical O
+Improvement O
+(TTCI) O
+
+Serum O
+amyloid O
+
+14 O
+day O
+outcome O
+of O
+the O
+
+HRCT O
+pulmonary O
+fibrosis O
+score O
+
+nan O
+
+Cough O
+Score O
+Expectoration O
+score O
+
+The O
+time O
+for O
+the O
+positive O
+
+blood B-outcome
+gas I-outcome
+SOFA O
+score O
+
+CRP O
+IL-6 O
+TNF-alpha O
+
+nucleic O
+acids O
+probing O
+blood B-outcome
+routine I-outcome
+
+death B-outcome
+Number I-outcome
+of I-outcome
+failure I-outcome
+organs O
+Length I-outcome
+of I-outcome
+hospital O
+
+Medical B-outcome
+imaging I-outcome
+improvement I-outcome
+rate I-outcome
+in O
+patients O
+during O
+recovery O
+
+Inpatient O
+mortality O
+ICU B-outcome
+hospital I-outcome
+
+Time O
+to O
+Clinical O
+Recovery O
+
+Time O
+to O
+clinical O
+recovery O
+
+chest O
+computerized O
+tomography O
+Nucleic B-outcome
+acid I-outcome
+
+Lung O
+CT O
+
+Time B-outcome
+to I-outcome
+
+Time O
+to O
+Virus O
+Eradication O
+
+Recovery O
+time O
+Pneumonia B-outcome
+psi I-outcome
+
+Status O
+of O
+immune O
+function O
+
+The O
+percentage O
+of O
+patients O
+who O
+convert O
+to O
+moderate O
+one O
+The O
+rate O
+of O
+
+nan O
+
+The O
+time O
+when O
+the B-outcome
+nucleic I-outcome
+acid O
+of O
+the O
+novel O
+coronavirus O
+turns O
+negative O
+Conversion O
+to O
+heavy/critical O
+type O
+
+Time B-outcome
+and I-outcome
+rate I-outcome
+
+lasting B-outcome
+time I-outcome
+of I-outcome
+fever O
+lasting O
+time O
+of O
+novel O
+
+Complete O
+Blood O
+
+Endotracheal O
+intubation O
+rate O
+
+The B-outcome
+negative I-outcome
+conversion I-outcome
+rate I-outcome
+and O
+negative O
+conversion O
+time O
+of O
+
+Self-rating O
+depression B-outcome
+scale I-outcome
+self-rating O
+anxiety O
+scale O
+Athens O
+Insomnia O
+Scale O
+
+Temperature O
+returns O
+to O
+normal O
+for O
+more O
+than O
+
+IFN-gama O
+TNF-alpha B-outcome
+Blood I-outcome
+routine O
+index O
+Time O
+and O
+rate O
+of O
+coronavirus O
+become O
+negative O
+immunoglobulin O
+Exacerbation O
+(transfer O
+to O
+
+Time O
+of B-outcome
+conversion I-outcome
+to O
+be O
+negative O
+of O
+novel O
+coronavirus O
+nucleic O
+acid O
+
+Clinical O
+symptom O
+improvement O
+rate: O
+improvement O
+
+Ventilation-free O
+days B-outcome
+mortality O
+
+Time O
+of O
+conversion O
+to O
+be O
+
+Mortality O
+rate B-outcome
+
+Time I-outcome
+to O
+disease O
+recovery O
+
+Time O
+to O
+disease O
+recovery O
+
+Oxygen O
+Inhalation O
+Frequency O
+Oxygen O
+Intake O
+Time O
+
+Time O
+to O
+disease O
+
+Time B-outcome
+to O
+disease O
+
+HRCT O
+score O
+
+Pulmonary O
+function O
+evaluation O
+Changes O
+
+syndrome O
+nucleic O
+acid B-outcome
+of O
+
+Pittsburgh O
+sleep O
+quality O
+index I-outcome
+Self-rating O
+anxiety B-outcome
+scale I-outcome
+Self-rating O
+
+insomnia O
+anxiety O
+depression O
+comfort I-outcome
+
+GAD-7 O
+STAI-Y B-outcome
+(C) I-outcome
+
+improvement O
+or O
+recovery O
+of O
+respiratory O
+symptoms B-outcome
+viral I-outcome
+nucleic O
+acid O
+shedding O
+
+Inflammation O
+
+The O
+biochemical O
+indicators O
+
+Quantitative O
+table B-outcome
+of I-outcome
+
+nuclear O
+acid O
+test O
+
+Changes O
+of O
+serum O
+inflammatory O
+factors O
+
+Maximal O
+inspiratory I-outcome
+pressure O
+
+Body O
+temperature O
+returns O
+to O
+normal O
+time O
+After O
+the O
+
+The O
+change O
+of O
+TCM B-outcome
+syndrome I-outcome
+
+Incidence B-outcome
+of I-outcome
+COVID-19 I-outcome
+pneumonia O
+
+Improvement O
+of O
+
+Albumin O
+Cellular O
+immune O
+
+PO2/FiO2 O
+ROX O
+
+COVID-19 O
+
+SP02 O
+lesions O
+of O
+lung O
+CT O
+
+The B-outcome
+time I-outcome
+required I-outcome
+for I-outcome
+
+novel B-outcome
+coronavirus I-outcome
+nucleic I-outcome
+acid I-outcome
+
+Viral B-outcome
+nucleic I-outcome
+acid I-outcome
+test I-outcome
+
+Change O
+in O
+
+Response B-outcome
+to I-outcome
+treatment I-outcome
+Complications I-outcome
+
+Response O
+to O
+
+Response O
+to O
+treatment O
+Complications O
+
+Cough O
+O2 O
+saturation O
+Radiographic O
+features O
+
+Clinical O
+response B-outcome
+to O
+
+Response O
+to O
+the O
+treatment B-outcome
+(improvement I-outcome
+
+Clinical B-outcome
+recovery I-outcome
+(composite) I-outcome
+within I-outcome
+
+Clinical B-outcome
+response O
+Paraclinical O
+
+Time O
+from O
+COVID-19 O
+test O
+
+The O
+need O
+for O
+hospital O
+admission O
+or O
+death, O
+for O
+patients O
+aged B-outcome
+=50 B-outcome
+years B-outcome
+with I-outcome
+comorbidity, B-outcome
+and O
+aged O
+=65 O
+with O
+
+expected B-outcome
+value I-outcome
+and I-outcome
+95% I-outcome
+
+expected O
+value O
+and O
+
+Proportion B-outcome
+of I-outcome
+subjects I-outcome
+
+viral O
+clearance O
+in O
+
+virological B-outcome
+clearance O
+at O
+day-6 O
+
+time B-outcome
+of I-outcome
+virus O
+nucleic O
+acid O
+
+Average O
+score O
+on O
+State-Trait O
+Anxiety O
+Scale B-outcome
+(STAI) I-outcome
+average I-outcome
+score B-outcome
+on B-outcome
+Sleep O
+
+survival O
+
+nan B-outcome
+
+nan O
+
+Side O
+effects O
+
+Change O
+in O
+Viral O
+Load O
+Change O
+
+All-cause O
+mortality O
+
+Mortality O
+rate O
+
+Change B-outcome
+in O
+Viral O
+Load I-outcome
+Change B-outcome
+in I-outcome
+Immunoglobulin I-outcome
+M I-outcome
+COVID-19 B-outcome
+antibodies B-outcome
+Titers B-outcome
+Change I-outcome
+
+Duration O
+of O
+Viral O
+
+Duration O
+of O
+viral O
+shedding O
+in O
+days O
+Time O
+to O
+clinical O
+recovery O
+(TTCR) O
+in O
+days O
+Treatment-emergent I-outcome
+adverse O
+
+COVID-19-related O
+
+Proportion O
+of O
+
+Clinical O
+
+Recovery O
+of O
+
+Change O
+in O
+
+28-day O
+survival O
+rate O
+
+Rate O
+of O
+SARS-CoV-2 O
+eradication O
+at B-outcome
+day B-outcome
+14 B-outcome
+from I-outcome
+study B-outcome
+
+Composite O
+of O
+
+COVID O
+Ordinal O
+Outcomes O
+Scale O
+
+Composite B-outcome
+of I-outcome
+cumulative I-outcome
+death I-outcome
+
+Efficacy O
+of O
+
+Median O
+release O
+
+COVID O
+Ordinal B-outcome
+Outcomes O
+
+Hospitalization O
+
+Proportion O
+of O
+patients O
+requiring O
+ICU O
+admission O
+at O
+any O
+time O
+within O
+the O
+study O
+period. O
+
+Mortality O
+
+Change O
+in O
+Oxygen O
+Saturation O
+by O
+Pulse O
+Oximetry O
+
+PO2/FiO2 O
+(Safety) O
+PO2/FiO2 O
+(Efficacy) O
+Early O
+
+National B-outcome
+Institute I-outcome
+of O
+Allergy O
+and O
+Infectious O
+
+Viral O
+clearance I-outcome
+time O
+
+Time O
+to O
+
+Mortality O
+day O
+10 O
+Mortality O
+day O
+30 O
+Changes O
+of O
+C-reactive O
+protein O
+day O
+1 O
+
+Evolution O
+of O
+acute O
+
+Incidence O
+of O
+
+Virus O
+duration O
+
+Improvement O
+in O
+oxygenation O
+
+Clear O
+chest O
+CT-scan O
+PCR O
+test O
+
+Time O
+to O
+clinical O
+
+Mortality O
+at O
+60days O
+
+Improved O
+clinical O
+status O
+Return O
+to O
+room O
+air O
+
+Outpatients: O
+
+Cumulative O
+incidence O
+of O
+composite I-outcome
+outcome O
+of O
+
+Clinical O
+response O
+Side O
+
+National O
+Early O
+
+Change O
+from O
+baseline O
+score O
+of O
+Nutrition O
+risk O
+screening-2002 O
+(NRS-2002) O
+at O
+end O
+
+Number O
+of O
+participants O
+
+RNA O
+
+In-hospital O
+mortality B-outcome
+
+Change O
+from O
+
+interleukin-6 O
+(IL-6) B-outcome
+level O
+after O
+
+Clinical B-outcome
+status I-outcome
+of O
+subject O
+at O
+
+death O
+
+Days O
+
+Ventilator-free O
+days O
+
+Number B-outcome
+patients O
+developing O
+
+Ventilator O
+Free O
+Days O
+Duration O
+
+Clinical O
+Status O
+Assessed O
+Using O
+a O
+7-Category O
+Ordinal O
+
+CRP O
+increase O
+
+Respiratory O
+efficacy O
+evaluated O
+by O
+the O
+increase B-outcome
+in O
+PaO2/FiO2 O
+ratio O
+from O
+baseline O
+to O
+day O
+7 O
+in O
+the O
+experimental O
+
+ventilator O
+free O
+days O
+
+In-hospital O
+mortality B-outcome
+Need I-outcome
+for O
+mechanical O
+
+need O
+of O
+mechanical O
+ventilation O
+
+Clinical O
+status O
+
+Adverse B-outcome
+reaction I-outcome
+(AE) Seperator
+and I-outcome
+severe O
+adverse I-outcome
+reaction B-outcome
+(SAE) B-outcome
+Changes B-outcome
+of I-outcome
+lung O
+
+Treatment O
+success O
+
+Treatment O
+failure O
+Intubation O
+rate O
+
+Clinical B-outcome
+improvement B-outcome
+Hospital B-outcome
+discharge O
+
+Composite O
+primary O
+
+The O
+percentage O
+of O
+patients O
+requiring B-outcome
+transfer O
+to O
+
+Rate O
+of O
+recovery O
+from O
+positive O
+to O
+negative O
+swaps O
+Fever O
+to O
+normal O
+
+Pulse O
+oximetry O
+level O
+
+In-hospital O
+mortality O
+
+Time O
+(in B-outcome
+days) O
+
+Mortality O
+rate O
+Clinical O
+status O
+evaluated O
+in B-outcome
+agreement I-outcome
+
+Number O
+of O
+death O
+from O
+any O
+cause, O
+or O
+the O
+need O
+for O
+intubation O
+and O
+mechanical O
+ventilation O
+
+Evaluation O
+of I-outcome
+the I-outcome
+
+Phase O
+
+Mortality O
+rate O
+reduction O
+of B-outcome
+50% I-outcome
+by O
+day O
+28 O
+
+All-cause O
+mortality O
+
+reduction O
+in O
+oxygen O
+and O
+ventilation O
+support O
+
+Proportion O
+of O
+participants O
+with O
+normalization O
+of O
+fever O
+and O
+oxygen O
+saturation O
+by O
+day O
+14 O
+
+Survival O
+without O
+needs O
+of O
+
+Time O
+to O
+independence O
+
+Survival O
+without O
+
+Number O
+of O
+days O
+alive O
+and O
+discharged O
+
+Percent O
+of O
+subjects O
+
+Percent O
+of O
+subjects O
+who O
+have O
+
+Measure O
+the O
+safety O
+of I-outcome
+160ppm O
+
+Viral O
+nucleic O
+acid O
+
+Death O
+or O
+need O
+
+Number O
+of O
+deceased O
+participants O
+or O
+
+ICU O
+length O
+of O
+stay O
+
+SOFA O
+scores O
+
+i. O
+Clinical O
+
+Category O
+Changes O
+in O
+
+Improvement O
+
+For O
+patients O
+
+Feasibility O
+of O
+performing O
+
+Recovery B-outcome
+time I-outcome
+
+Cause I-outcome
+of O
+death O
+
+time B-outcome
+to O
+
+The O
+proportion O
+of B-outcome
+patients O
+requiring O
+mechanical O
+ventilation O
+Mean O
+
+Rates O
+of O
+
+Comparison B-outcome
+of O
+the O
+
+Difference O
+in O
+time O
+to O
+
+Prevalence O
+and O
+the O
+
+Number O
+of O
+participants O
+with I-outcome
+treatment-related B-outcome
+adverse I-outcome
+events B-outcome
+as I-outcome
+assessed B-outcome
+by I-outcome
+
+Hospitalization O
+
+World I-outcome
+Health O
+Organization O
+(WHO) O
+ordinal I-outcome
+scale B-outcome
+measured O
+
+Phase O
+2: O
+Cumulative O
+incidence O
+
+Percentage O
+
+Time O
+from O
+
+Effect O
+of O
+
+The O
+self-rated O
+
+Virology B-outcome
+Cure I-outcome
+Rate I-outcome
+
+To I-outcome
+
+The O
+immune O
+
+TTCI O
+
+Changes O
+in O
+clinical O
+critical O
+treatment O
+
+Admission O
+to O
+Intensive O
+Care O
+Unit O
+
+Overall O
+mortality O
+
+Rates O
+of O
+return O
+visits O
+
+Mortality O
+Viral O
+
+Assessment O
+of O
+weaning O
+
+Treatment O
+failure O
+rate O
+
+Changes O
+
+progression O
+of O
+
+Successful O
+treatment O
+as O
+determined O
+by O
+Negative O
+Test O
+and O
+resolution O
+of O
+
+Number O
+of B-outcome
+mechanical O
+ventilation O
+days. O
+
+Time O
+to O
+clinical O
+worsening O
+
+Number O
+of O
+cured B-outcome
+patients I-outcome
+
+The O
+time-to-death O
+from O
+all O
+causes O
+The O
+
+Time O
+to O
+normalize O
+
+Hospitalization O
+within O
+14 O
+days O
+of O
+
+Time O
+to O
+clinical O
+
+Number O
+of O
+patients O
+
+Decrease O
+incidence O
+of O
+
+Antiviral B-outcome
+Activity I-outcome
+Improvement I-outcome
+of I-outcome
+oxygenation O
+
+Change O
+in O
+respiratory O
+status O
+
+Time O
+to O
+
+Undetectable O
+COVID O
+
+The O
+effect O
+
+Time B-outcome
+to O
+
+Survival O
+
+Viral O
+
+first O
+
+Time O
+
+Need O
+for O
+
+Viral B-outcome
+load I-outcome
+
+Proportion I-outcome
+of O
+surviving O
+patients O
+without O
+need O
+
+Proportion O
+of O
+patients O
+who O
+progress O
+to O
+require O
+
+Stop O
+home O
+isolation O
+NEWS O
+score O
+
+Evaluation O
+of O
+
+Incidence O
+of O
+serious O
+adverse O
+events O
+
+Critical O
+condition O
+or O
+death O
+IL-6 O
+
+Clinical O
+Improvement O
+as O
+assessed O
+by O
+
+Proportion O
+of O
+
+Proportion O
+(%) O
+of O
+subjects O
+experiencing O
+deterioration O
+
+Changes O
+of O
+oxygenation O
+index O
+(PaO2/FiO2) B-outcome
+Side O
+
+Death O
+
+Number O
+of O
+antibiotic O
+free B-outcome
+days O
+
+Survival O
+without O
+needs O
+of O
+intubation B-outcome
+at O
+
+Change O
+of O
+baseline O
+total O
+sequential O
+organ O
+
+Mortality O
+
+overall B-outcome
+response I-outcome
+rate I-outcome
+in I-outcome
+reversal O
+of O
+
+A B-outcome
+composite I-outcome
+score I-outcome
+based I-outcome
+
+Composite O
+outcome O
+of B-outcome
+arterial O
+or O
+venous O
+thrombosis, O
+disseminated O
+intravascular O
+coagulation O
+
+Duration O
+of O
+
+Mechanical O
+
+Total O
+Hospitalization O
+Total O
+
+Changes O
+in O
+Glucose O
+Llevels O
+
+Percentage O
+
+28 O
+day O
+all O
+
+The O
+change O
+of O
+viral O
+
+Time O
+to O
+clinical O
+improvement B-outcome
+of I-outcome
+
+Number O
+of O
+death O
+of O
+any O
+cause, O
+during O
+
+Improvement B-outcome
+on I-outcome
+a I-outcome
+7-point I-outcome
+
+Day-28 O
+mortality O
+
+Proportion O
+of O
+patients B-outcome
+with I-outcome
+onset O
+of O
+severe O
+acute O
+respiratory O
+syndrome O
+(SARS) O
+
+Not O
+hospitalized O
+
+Disease O
+progression O
+Time O
+to O
+mechanical O
+ventilation O
+
+Mortality O
+rate O
+at O
+day O
+28 O
+
+Number O
+of O
+ventilator-free O
+days O
+
+Laboratory O
+Result O
+Clinical O
+Outcome B-outcome
+
+Proportion O
+of O
+"responder" O
+patients B-outcome
+to I-outcome
+prone O
+position B-outcome
+
+Survival I-outcome
+without O
+needs B-outcome
+of I-outcome
+ventilator O
+utilization O
+at O
+day O
+
+Hours O
+to O
+
+The O
+number O
+
+Global O
+
+Change O
+
+Changes O
+
+Changes O
+
+Symptom O
+
+PaCO2 O
+
+Composite O
+
+all-cause O
+mortality O
+at O
+90 O
+
+TTCI O
+
+Self-assessment O
+of O
+sleep O
+quality O
+
+Hospital O
+stay O
+
+Clearance O
+time O
+of O
+
+TCM B-outcome
+Syndrome I-outcome
+Scale I-outcome
+
+time I-outcome
+till O
+
+Clinical B-outcome
+status I-outcome
+of I-outcome
+subject I-outcome
+at O
+day O
+1 O
+
+Time O
+to O
+improvement O
+of O
+2 O
+points O
+in O
+clinical O
+status O
+assessment O
+from O
+baseline O
+
+All-cause O
+in-hospital O
+
+Time O
+of O
+
+Prostaglandin O
+E2 O
+
+Chest O
+Imaging O
+lung O
+
+FVC O
+
+Safety O
+
+Electrocardiogram O
+St O
+George's B-outcome
+Respiratory O
+Questionnaire O
+
+Ratio O
+of O
+PaO2/FiO2 O
+P(A-a)O2 O
+
+- O
+Achieving O
+one B-outcome
+of I-outcome
+
+Rate O
+of O
+
+Composite O
+endpoint O
+of O
+
+Comparsa O
+di O
+uno O
+di O
+
+death O
+from O
+any O
+cause O
+use O
+of O
+intubation O
+and O
+
+determination O
+of O
+
+Time O
+to O
+
+Integration O
+to O
+community B-outcome
+as O
+measured O
+
+Composite O
+endpoint O
+
+Time O
+to O
+clinical O
+improvement O
+
+The O
+
+Dose O
+adjustment I-outcome
+required O
+
+Mortality O
+
+Proportion O
+of B-outcome
+participants I-outcome
+alive O
+and O
+
+Composite B-outcome
+outcome I-outcome
+comprising O
+tracheal O
+
+All-cause O
+mortality, O
+subdivided B-outcome
+by O
+the O
+severity O
+
+Monitoring O
+of O
+
+Rate B-outcome
+of O
+
+Mean B-outcome
+daily O
+InFLUenza I-outcome
+Patient-Reported O
+
+time O
+to O
+liberation O
+from O
+ventilation O
+
+Composite B-outcome
+endpoint I-outcome
+of: O
+
+Proportion O
+of O
+participants O
+
+Mortality O
+on O
+D28 O
+
+Mean O
+
+The O
+primary O
+outcome O
+
+Mortality O
+rate O
+30 O
+days O
+
+Proportion O
+
+Comparison O
+
+30-day O
+
+30-day I-outcome
+mortality I-outcome
+all I-outcome
+
+relative B-outcome
+change I-outcome
+(%) I-outcome
+from I-outcome
+
+28-day B-outcome
+survival I-outcome
+rate I-outcome
+
+time-to-death I-outcome
+
+Time B-outcome
+(days) I-outcome
+to O
+
+Main B-outcome
+Objective: I-outcome
+Evaluate O
+
+Main O
+Objective: O
+To O
+evaluate B-outcome
+the I-outcome
+efficacy I-outcome
+of O
+methylprednisolone B-outcome
+treatment, I-outcome
+added I-outcome
+
+positive O
+test O
+
+severity B-outcome
+of I-outcome
+acute I-outcome
+respiratory I-outcome
+distress I-outcome
+syndrome I-outcome
+(as I-outcome
+measured I-outcome
+
+change O
+in O
+the B-outcome
+disease I-outcome
+severity I-outcome
+category I-outcome
+of O
+COVID-19 B-outcome
+after I-outcome
+treatment I-outcome
+
+Changes O
+in O
+time B-outcome
+to I-outcome
+clinical I-outcome
+recovery O
+(TTCR), B-outcome
+Changes I-outcome
+in I-outcome
+clinical I-outcome
+
+virological B-outcome
+clearance O
+rate O
+using B-outcome
+qRT-PCR I-outcome
+in I-outcome
+
+positive-to-negative O
+conversion O
+
+clinical B-outcome
+recovery I-outcome
+rate I-outcome
+
+nan O
+
+nan B-outcome
+
+nan I-outcome
+
+nan I-outcome
+
+Respiratory O
+function O
+
+viral O
+negative-transforming O
+
+Safety O
+of O
+transfusion O
+
+safety O
+level O
+of O
+the O
+cytokines O
+
+Size O
+of O
+lesion O
+
+Time O
+course O
+
+SARS-free O
+patients O
+
+Number B-outcome
+of I-outcome
+participants I-outcome
+with O
+
+Recovery B-outcome
+Time I-outcome
+
