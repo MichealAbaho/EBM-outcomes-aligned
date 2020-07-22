@@ -10,6 +10,7 @@
 
 
 from torch.optim.adam import Adam
+from torch.optim.sgd import SGD
 import csv
 from flair.data import Corpus, Sentence
 from flair.datasets import TREC_6, CSVClassificationCorpus, ClassificationCorpus
@@ -48,12 +49,14 @@ def outcome_data_merger():
                 row = [i.strip() for i in row]
                 row[1] = row[1].strip("['']").strip()
                 row[2] = re.sub('\s+', ' ', row[2])
+                #print(row)
                 if row[-2] == 'X' and row[-1] == 'X': #if no primary domain exists and no comment on annotation
                     _row_ = row[:-2]
                 elif row[-2] != 'X' and row[-1] == 'X': #if a primary domain exists, insert it but keep secondary domains
                     row[-2] = row[-2].strip("['']").strip()
                     row_ = [i.strip().strip("'") for i in row[1].split(',')]
-                    row_.remove(row[-2])
+                    if row[-2] in row_:
+                        row_.remove(row[-2])
                     row_.insert(0, row[-2])
                     row.remove(row[1])
                     for u in range(len(row_)-1, -1, -1):
@@ -63,6 +66,12 @@ def outcome_data_merger():
                     _row_ = row[:-2]
                 primar_domain_label = fetch_taxonomy_label(annotation_label=_row_[1])
                 _row_.insert(1, primar_domain_label)
+                #fix some labels with double and single quots all on one string
+                if len(_row_[2]) > 4:
+                    dt = [i.replace("'", '').strip() for i in _row_[-2].split(',')]
+                    _row_.remove(_row_[-2])
+                    _row_ = _row_ + dt
+                    _row_ [-1], _row_ [-2], _row_ [-3] = _row_ [-3], _row_ [-1], _row_ [-2]
                 #insert dummy nan values as labels inorder to have the minimum amount of labels for each outcome
                 if len(_row_) < 6:
                     for i in range(6 - len(_row_)):
@@ -93,7 +102,7 @@ def outcome_data_merger():
                         several = False
                         if len([i for i in y if str(i) != 'nan']) > 1:
                             several = True
-                            print(y, sht)
+                            #print(y, sht)
                         if any(str(i)!='nan' for i in y_copy):
                             for o in range(len(y_copy)):
                                 if str(y_copy[o]) != 'nan':
@@ -104,7 +113,8 @@ def outcome_data_merger():
                                         y = [np.NAN] * y_len
                                         y[o] = m.strip()
                                         if several:
-                                            print(y)
+                                            pass
+                                            #print(y)
                                         y.insert(0, core_areas[o])  # insert the primary domain
                                         _y_ = [i for i in y if str(i) != 'nan']
                                         primary_domain_ebm_nlp.append(tuple(_y_))
@@ -112,7 +122,9 @@ def outcome_data_merger():
 
     primary_domain_comet_frame = pd.DataFrame(primary_domain_comet, columns=['Abstract', 'Label', 'Label_1', 'Label_2', 'Label_3', 'Outcome'])
     print(max([len(i) for i in primary_domain_ebm_nlp]), '\n', primary_domain_ebm_nlp[4])
+    #print(tabulate(primary_domain_comet_frame.head(), headers='keys', tablefmt='psql'))
     primary_domain_ebm_nlp_frame = pd.DataFrame(primary_domain_ebm_nlp, columns=['Label', 'Outcome'])
+    #print(tabulate(primary_domain_ebm_nlp_frame.head(30), headers='keys', tablefmt='psql'))
     primary_domain_comet_frame.to_csv(dest_folder+'/ebm-comet-outcomes.csv')
     primary_domain_ebm_nlp_frame.to_csv(dest_folder+'/ebm-nlp-outcomes.csv')
     #merge the dataframes holding outcmes from different datasets
@@ -157,7 +169,7 @@ def create_dataset(data, tsv=False):
         for i in [('train', train), ('test', test), ('dev', dev)]:
             tsv_files(i)
 
-def train_classifier(pre_trained_model, layer, pooling_sub_token, word_level=False):
+def train_classifier(pre_trained_model, layer, pooling_sub_token, epochs, word_level=False):
     # corpus = NLPTaskDataFetcher.load_classification_corpus(data_folder='label_embs_2/', test_file='test.csv', train_file='train.csv', dev_file='dev.csv')
     corpus: Corpus = ClassificationCorpus(data_folder=dest_folder, test_file='test.txt', dev_file='dev.txt',  train_file='train.txt')
     label_dict = corpus.make_label_dictionary()
@@ -166,11 +178,11 @@ def train_classifier(pre_trained_model, layer, pooling_sub_token, word_level=Fal
     else:
         document_embeddings = TransformerWordEmbeddings(pre_trained_model, layers=layer, pooling_operation=pooling_sub_token, fine_tune=True)
     classifier = TextClassifier(document_embeddings=document_embeddings, label_dictionary=label_dict, multi_label=False)
-    trainer = ModelTrainer(model=classifier, corpus=corpus, optimizer=Adam)
+    trainer = ModelTrainer(model=classifier, corpus=corpus, optimizer=SGD)
     trainer.train(dest_folder+'/output2',
                   learning_rate=3e-5,
                   mini_batch_size=16,
-                  max_epochs=1)
+                  max_epochs=epochs)
 
 
 def predict_labels(data, pretrained_model):
@@ -232,6 +244,7 @@ def predict_labels(data, pretrained_model):
     columns_ = ['Outcome {}'.format(i+1) for i in range(max_outcomes_per_sentence)]
     sub_outcomes_frame = pd.DataFrame(sub_outcomes, columns=columns_)
     data_to_classify_frame = pd.concat([data_to_classify_frame, sub_outcomes_frame], axis=1)
+    print(tabulate(data_to_classify_frame, headers='keys', tablefmt='psql'))
     #data_to_classify_frame.to_csv(os.path.dirname(data)+'/{}.csv'.format(os.path.basename(data).split('.')[0]))
     #print(tabulate(data_to_classify_frame.head(20), headers='keys', tablefmt='psql'))
 
@@ -241,6 +254,7 @@ if __name__ == '__main__':
     par.add_argument('--word_level', action='store_true', help='True: encode input sentence by aggregating embeddings for each word otherwise: encode whole sentence')
     par.add_argument('--layer', default='all',  help='layers to extract features')
     par.add_argument('--pooling', default='mean',  help='pooling operation to perform over sub tokens')
+    par.add_argument('--epochs', default=1, type=int, help='number of training epochs')
     par.add_argument('--datasets', default='datasets', help='source of data')
     par.add_argument('--dest_folder', default='classification files folder', help='source of files or data to be used for classification training')
     par.add_argument('--tsv', action='store_true', help='tab seperated text files as classification sets otherwise csv')
@@ -248,7 +262,7 @@ if __name__ == '__main__':
 
     args = par.parse_args()
     if not args.predictor:
-        #dataset_folder = args.datasets
+        dataset_folder = args.datasets
         dest_folder = os.path.abspath(os.path.join(os.path.curdir, args.dest_folder))
         if not os.path.exists(dest_folder):
             os.makedirs(dest_folder)
@@ -257,6 +271,6 @@ if __name__ == '__main__':
         print(tabulate(merged_outcomes.head(), headers='keys', tablefmt='psql'))
         create_dataset(data=merged_outcomes, tsv=args.tsv)
         print('\n\n*******************\nfinished\n*******************\n\n')
-        train_classifier(pre_trained_model=args.pretrained_model, layer=args.layer, pooling_sub_token=args.pooling, word_level=args.word_level)
+        train_classifier(pre_trained_model=args.pretrained_model, layer=args.layer, pooling_sub_token=args.pooling, epochs=args.epochs, word_level=args.word_level)
     else:
         predict_labels(data=args.datasets, pretrained_model=args.pretrained_model)
