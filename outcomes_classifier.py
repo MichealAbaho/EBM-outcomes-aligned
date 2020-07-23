@@ -3,12 +3,6 @@
 # @Created: 23/06/20
 # @Contact: michealabaho265@gmail.com
 
-# -*- coding: utf-8 -*-
-# @Author: micheala
-# @Created: 11/12/19
-# @Contact: michealabaho265@gmail.com
-
-
 from torch.optim.adam import Adam
 from torch.optim.sgd import SGD
 import csv
@@ -248,6 +242,22 @@ def predict_labels(data, pretrained_model):
     #data_to_classify_frame.to_csv(os.path.dirname(data)+'/{}.csv'.format(os.path.basename(data).split('.')[0]))
     #print(tabulate(data_to_classify_frame.head(20), headers='keys', tablefmt='psql'))
 
+def predict_labels_quot_serperated_data(data, pretrained_model):
+    classifier = TextClassifier.load(pretrained_model)
+    quot_separated_data = []
+
+    d = pd.read_csv(data)
+    for sent in d[['study_id','outcome']].values:
+        if sent[1] != '\n' and str(sent[1]).strip() != 'nan' and type(sent[1]) != float:
+            print(sent[1])
+            sent_ = Sentence(sent[1].strip())
+            classifier.predict(sent_)
+            lab = sent_.labels
+            quot_separated_data.append((sent[0], sent[1], lab))
+
+    quot_separated_data_frame = pd.DataFrame(quot_separated_data, columns=['study_id', 'outcome', 'outcome_type'])
+    quot_separated_data_frame.to_csv(os.path.join(os.path.dirname(data), '{}_predictions.csv'.format(os.path.basename(data).split('.')[0])))
+
 if __name__ == '__main__':
     par = argparse.ArgumentParser()
     par.add_argument('--pretrained_model', default='bert-base-uncased', help='source of pretrained model')
@@ -258,6 +268,7 @@ if __name__ == '__main__':
     par.add_argument('--datasets', default='datasets', help='source of data')
     par.add_argument('--dest_folder', default='classification files folder', help='source of files or data to be used for classification training')
     par.add_argument('--tsv', action='store_true', help='tab seperated text files as classification sets otherwise csv')
+    par.add_argument('--quot_separated_outcomes', action='store_true', help='dataset cotains outcomes however they are separated by quotation marks')
     par.add_argument('--predictor', action='store_true', help='predictor')
 
     args = par.parse_args()
@@ -273,4 +284,7 @@ if __name__ == '__main__':
         print('\n\n*******************\nfinished\n*******************\n\n')
         train_classifier(pre_trained_model=args.pretrained_model, layer=args.layer, pooling_sub_token=args.pooling, epochs=args.epochs, word_level=args.word_level)
     else:
-        predict_labels(data=args.datasets, pretrained_model=args.pretrained_model)
+        if not args.quot_separated_outcomes:
+            predict_labels(data=args.datasets, pretrained_model=args.pretrained_model)
+        else:
+            predict_labels_quot_serperated_data(data=args.datasets, pretrained_model=args.pretrained_model)
