@@ -25,7 +25,7 @@ import os
 def outcome_data_merger():
     core_areas, COMET_LABELS = taxonomy.comet_taxonomy()  # taxonomy of outcomes
     def fetch_taxonomy_label(annotation_label):
-        domain = int(_row_[1].split()[-1])
+        domain = int(annotation_label.split()[-1])
         for k, v in COMET_LABELS.items():
             if domain in list(v.keys()):
                 primary_domain_outcome = k
