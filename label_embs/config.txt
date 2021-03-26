@@ -1,0 +1,10 @@
+data_dir: ../BNER-tagger/comet-data/
+file_name: ebm-comet
+pretrained_model: ../biobert/biobert_torch/
+mode: train
+pooling: mean
+norm: l2
+layer: all
+embedding_type: biobert
+embedding_size: 768
+dest_folder: label_embs/
