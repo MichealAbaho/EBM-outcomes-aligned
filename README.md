@@ -5,6 +5,7 @@ the corpora. Label-document-Alignment can be used to address concerns such as
 augmenting small datasets or even reducing noise in weakly supervised datasets
 
 **How it works**
+
 Given a source and target dataset, 
 L-D-A probes for an inter-label matrix containing similarity scores between 
 each pair of labels from both the Source and Target datasets.
