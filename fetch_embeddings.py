@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: micheala
-# @Created: 11/12/19
-# @Contact: michealabaho265@gmail.com
-
 import os
 import argparse
 import re
@@ -158,8 +153,6 @@ def ebm_comet_preprocessing(data, context_embedding, sentence, label_representat
                                 out_domain = multi_labels[ann]
 
                                 if out_domain[0][0] not in ['E', 'S']:
-                                    #print('hererherhehrehrehrherherherhehrehrehrherher')
-
                                     for j in range(i+1, len(sent)):
                                         if tag_unpacked[j].startswith('I-'):
                                             file.write('{} {}\n'.format(sent[j].text, tag_unpacked[j]))
@@ -180,7 +173,6 @@ def ebm_comet_preprocessing(data, context_embedding, sentence, label_representat
                                             label_representations[dom] = torch.cat((label_representations[dom], b_mean), dim=0)
 
                                 else:
-                                    #print('sldncsdcnosjdlncovrsufhvksjrdhcoidfjpwoeifhekwrjbvksdjnpfcowejpfwe', )
                                     e_s_features = []
                                     x_indices = []
                                     x_indices.append((z, re_shape(sent[i].embedding)))
@@ -231,21 +223,14 @@ def ebm_comet_preprocessing(data, context_embedding, sentence, label_representat
                                                 y_indices.append(_m_)
                                         y_indices.insert(0, e_s_features[0][2])
 
-                                    # print('---------',b.shape)
                                     b_mean = []
-                                    #print(e_s_features[-1][0])
-
                                     for d_ in y_indices:
-                                        #print('d_ shape',d_.shape)
                                         d_ = torch.mean(d_, 0) if len(d_.shape) > 1 else d_
                                         b_mean.append(d_.reshape(1, len(d_)))
-
                                     for b_,dom in zip(b_mean, out_domain[1:]):
                                         if dom not in label_representations:
-                                            #print('final', b_.shape)
                                             label_representations[dom] = b_
                                         elif dom in label_representations:
-                                            #print('final already in', b_.shape)
                                             label_representations[dom] = torch.cat((label_representations[dom], b_), dim=0)
                                 ann += 1
 
@@ -278,7 +263,6 @@ def ebm_nlp_processing(data, context_embedding, sentence, label_representations)
             d = k = 0
             #process each word in a sentence, looking for those that form outcome phrases and obtain a vector representation for entire outcome phrase,
             for i in range(len(sent)):
-                #print(i, d, sent[i].text)
                 if i == d:
                     if tag_unpacked[i].startswith('B-'):
                         b = sent[i].embedding
